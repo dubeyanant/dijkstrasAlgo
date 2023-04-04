@@ -65,7 +65,7 @@ start_node = 'A'
 end_node = 'D'
 
 # Define example between 0 and 2
-option = 0
+option = 1
 
 # Define font
 FONT_SIZE = 20
